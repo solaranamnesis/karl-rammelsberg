@@ -4,6 +4,8 @@
 
 ### Berlin, 1872.
 
+### C. G. Lüderitz'sche Verlagsbuchhandlung.
+
 Nach physikalischen und chemischen Gesetzen kann sich die Gesamtmenge der materiellen Stoffe unserer Erde weder vermehren noch vermindern; es verschwindet nichts, es kommt nichts hinzu; jede Wandelung im Gebiet des Materiellen ist entweder eine physikalische Änderung des molekularen Zustandes oder eine chemische Umsetzung der Bestandteile der Körper.
 
 Und dennoch hat die feste Masse des Erdkörpers seit langer Zeit eine Vermehrung erfahren, und erfährt eine solche noch immer. Ist die Größe dieses Zuwachses auch an sich verschwindend klein gegen die Gesamtmasse der Erde, so muss sie doch einen, für jetzt allerdings noch nicht bemerkbaren Einfluss auf die Beziehungen unseres Planeten zu den übrigen Körpern des Sonnensystems ausüben. Wir meinen die Meteoriten, jene Stein- und Eisenmassen, welche von außen her durch die Atmosphäre hindurch auf die Oberfläche der Erde niederfallen.
@@ -40,7 +42,7 @@ Gleichzeitig traf die Meldung ein, der Blitz habe ein Haus, eine Viertelstunde v
 
 Als ein Fall, welcher der neuesten Zeit angehört, mag der Steinregen von Pultusk in Polen dienen, welcher sich am 30. Januar 1868 ereignete.
 
-An diesem Tage um 7 Uhr Abends erschien bei fast heiterem Himmel eine glänzende Feuerkugel am Warschauer Horizont; sie wurde zuerst in Südost nahe dem Kopf der Andromeda sichtbar, und hatte das Ansehen eines Sterns erster Größe, vergrößerte sich aber zusehends der Art, dass ihr Durchmesser beim Passieren des Warschauer Meridians 15 bis 20 Minuten betrug. Nachdem das Meteor durch Kassiopeia, Kepheus, den Drachen und bis zum Stern n des großen Bären gegangen war, ließ es einen Lichtschweif von 9 Grad Länge und 2 Grad Breite hinter sich. Zugleich verwandelte sich das anfangs sternähnliche Licht beim Größerwerden der Kugel in Blaugrün und dann in Dunkelroth, und die Intensität dieses Lichts war so groß, dass die Menschen auf die Straße eilten und den Widerschein einer Feuersbrunst zu sehen glaubten.
+An diesem Tage um 7 Uhr Abends erschien bei fast heiterem Himmel eine glänzende Feuerkugel am Warschauer Horizont; sie wurde zuerst in Südost nahe dem Kopf der Andromeda sichtbar, und hatte das Ansehen eines Sterns erster Größe, vergrößerte sich aber zusehends der Art, dass ihr Durchmesser beim Passieren des Warschauer Meridians 15 bis 20 Minuten betrug. Nachdem das Meteor durch Kassiopeia, Kepheus, den Drachen und bis zum Stern η des großen Bären gegangen war, ließ es einen Lichtschweif von 9 Grad Länge und 2 Grad Breite hinter sich. Zugleich verwandelte sich das anfangs sternähnliche Licht beim Größerwerden der Kugel in Blaugrün und dann in Dunkelroth, und die Intensität dieses Lichts war so groß, dass die Menschen auf die Straße eilten und den Widerschein einer Feuersbrunst zu sehen glaubten.
 
 Dieses Feuermeteor ist gleichzeitig in Danzig, Posen, Krakau, Prag, Wien, Grodno und Dorpat beobachtet worden, und aus einigen dieser Beobachtungen hat man berechnet, dass es sich mit einer Geschwindigkeit von 6,6 Meilen in der Sekunde bewegt habe.
 
