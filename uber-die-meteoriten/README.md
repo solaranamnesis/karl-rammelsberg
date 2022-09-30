@@ -1,8 +1,4 @@
-# Karl Rammelsberg
-
-Public Domain Works of Karl Rammelsberg (1813 - 1899)
-
-## Über die Meteoriten und ihre Beziehungen zur Erde.
+# Über die Meteoriten und ihre Beziehungen zur Erde.
 
 English - Plain Text  
 English - PDF  
